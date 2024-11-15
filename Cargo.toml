@@ -1,0 +1,9 @@
+[package]
+name = "clxrity_lilgrep"
+version = "0.1.0"
+edition = "2021"
+authors = ["MJ Anglin <contact@mjanglin.com>"]
+description = "A simple grep-like utility written in Rust."
+license = "MIT"
+
+[dependencies]
