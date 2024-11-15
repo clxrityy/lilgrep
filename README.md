@@ -1,4 +1,4 @@
-# lilgrep
+# [lilgrep](https://crates.io/crates/clxrity_lilgrep)
 
 A miniature version of the [grep](https://www.gnu.org/software/grep/manual/grep.html) command line tool built with Rust.
 
